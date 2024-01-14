@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "6c7e49240978896f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c770f59a3317ce74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "906180cf85dbcb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kennisbank/Zuurdesembrood en de impact van verschillende soorten meel op het eindresultaat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b31388e2f4845ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "72eca659fcd0ddc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d4df7c9310a01d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18e8796930ac2516",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab0585e6cfa8fb6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.49999618530273
+  },
+  "right": {
+    "id": "424726d57f96dec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2778ba4c828bb640",
+        "type": "tabs",
+        "dimension": 21.398483572030326,
+        "children": [
+          {
+            "id": "a438293a80dc0cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recepten/Zuurdesemstarter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae8b3ed82703a862",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "8ef66d4732a72d44",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Kennisbank/Zuurdesem en de impact van verschillende soorten.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "434ebe2d25320576",
+        "type": "tabs",
+        "dimension": 23.841617523167645,
+        "children": [
+          {
+            "id": "c213f802ecdd3f05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kennisbank/Zuurdesembrood en de impact van verschillende soorten meel op het eindresultaat.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "90574a2944aaca26",
+        "type": "tabs",
+        "dimension": 32.26621735467566,
+        "children": [
+          {
+            "id": "ddcd6d504a928f7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a35b78af8e67da45",
+        "type": "tabs",
+        "dimension": 22.493681550126368,
+        "children": [
+          {
+            "id": "0145a6207846db33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kennisbank/Zuurdesembrood en de impact van verschillende soorten meel op het eindresultaat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a93b8815e1920227",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kennisbank/Zuurdesembrood en de impact van verschillende soorten meel op het eindresultaat.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d4df7c9310a01d7",
+  "lastOpenFiles": [
+    "Kennisbank/De verschillende fermentatie processen.md",
+    "Kennisbank/Zuurdesembrood en de impact van verschillende soorten meel op het eindresultaat.md",
+    "Verlanglijstje.md",
+    "Recepten/Zuurdesembrood.md",
+    "Recepten/Gele kokoscurry met kikkererwten.md",
+    "Recepten/Gemberbeestje.md",
+    "Recepten/Gemberbier.md",
+    "Recepten/Japanse noedelsoep met Paksoi en Shiiitake.md",
+    "Recepten/Kokosyoghurt.md",
+    "Recepten/Pokebowl met oosterse Zalmblokjes uit de oven.md",
+    "Recepten/Zuurdesemstarter.md",
+    "Recepten/Rode kokoscurry met Cashewnoten en Kabeljauwhaas.md",
+    "Persoonlijk/Recepten/Chili con carne.cook",
+    "Recepten/Pokebowl met Oosterse Zalm Stukjes uit de oven.cook",
+    "Recepten/Zuurdesemstarter.cook",
+    "Recepten/Gemberbeestje.cook",
+    "Recepten/Kokosyogurt.cook",
+    "Recepten/Rode Kokoscurry met Cashewnoten en Kabeljauw.cook",
+    "Recepten/Zuurdesembrood.cook",
+    "Stekker/2023-08-16 aantekeningen.md",
+    "Stekker/2023-08-07 aantekeningen.md",
+    "Persoonlijk/ChatGPT prompts/Taalcoach.md",
+    "Persoonlijk/ChatGPT prompts/Recepten omzetten naar Cooklang.md",
+    "Persoonlijk/99linesofcode.github.io/_posts/2016-01-01-welcome-to-lagrange.md",
+    "Archlinux.md",
+    "Stekker/2023-08-24 aantekeningen met EP.md",
+    "Untitled.canvas",
+    "Kennisbank",
+    "Stekker",
+    "Persoonlijk/ChatGPT prompts",
+    "Untitled.md",
+    "Recepten/Romige Paprikasoep.md",
+    "Zuurdesembrood bakken.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "2023-07-29.md",
+    "Gemberstarter.md"
+  ]
+}
