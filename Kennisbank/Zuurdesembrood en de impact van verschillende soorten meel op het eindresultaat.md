@@ -17,13 +17,10 @@ Fijner meel rijst meer, terwijl grover meel zorgt voor een dichter brood.
 
 ### Eiwitgehalte
 Een hoger eiwitgehalte (ongeveer 12% of meer) in meel helpt bij de ontwikkeling van gluten, wat resulteert in een betere structuur.
-
 ### Sterkte van Meel
 Zoek naar meel met het label "sterk" of "broodmeel" voor meel met een hogere W-index en sterkere gluten.
-
 ### Asgehalte en Extractiegraad
 Een hoger asgehalte (ongeveer 0,8% tot 1,2%) zorgt voor meer smaakvol zuurdesembrood vanwege het verhoogde mineralengehalte. Een extractiegraad van minimaal 70% wordt aanbevolen voor een goede smaak.
-
 ### Verschillende Tarwerassen
 - **Harde tarwerassen** (bijvoorbeeld harde winterrood, harde lenterood) zijn uitstekend voor beginners vanwege het hoge eiwitgehalte en de sterkte.
 - **Oude tarwerassen** (bijvoorbeeld spelt, eenkorn, khorasan) bieden unieke smaken en texturen, maar vereisen aanpassingen in de verwerking.
