@@ -11,8 +11,12 @@
             "id": "906180cf85dbcb30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Verlanglijstje.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Verlanglijstje.md"
+              }
             }
           }
         ]
@@ -153,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Verlanglijstje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Verlanglijstje.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
